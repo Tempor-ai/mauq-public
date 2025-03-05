@@ -1,5 +1,14 @@
-# The URL details is currently hidden from the public and is only available to the MAUQ and selected alpha users.
-# If you are interested in becoming a MAUQ alpha user, please reach out to Kevin R.C. <kevin@tempor.ai>.
-protocol: nan
-host: nan
-port: nan
+# MAUQ Local
+# protocol: http
+# host: localhost
+# port: 8000
+
+# MAUQ UAT
+protocol: https
+host: mauq-test.tempor.ai
+port: 443
+
+# MAUQ PROD
+# protocol: https
+# host: mauq.tempor.ai
+# port: 443
