@@ -2,7 +2,13 @@ numpy==1.24.4
 pandas==1.5.1
 matplotlib==3.7.1
 seaborn==0.12.2
+statsmodels==0.14.0
+fastapi==0.103.1
+uvicorn==0.30.5
 blosc==1.11.1
 crepes==0.7.1
+requests==2.31.0
 scikit-learn==1.3.0
 sktime==0.36.0
+pmdarima==2.0.4
+pyyaml==6.0.1
